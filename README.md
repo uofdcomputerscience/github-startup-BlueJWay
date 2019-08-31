@@ -16,3 +16,15 @@ We are working on three things with this assignment:
   * I can experience grading an assignment in github classroom
   
 Thanks!
+
+My name: Brendan Flood
+
+My favorite programming language: probably Java. I like the strong typing of
+variables which python lacks and I enjoy the compiler managing memory for me,
+which C++ lacks, so Java is the best of both worlds.
+
+My favorite text editor: probably vi/vim.
+
+A picture of me:
+
+file:///home/bflood/Downloads/59565476_419789532086365_380456711409893376_n.jpg
